@@ -1,4 +1,4 @@
-@import '~bootstrap/scss/bootstrap';
+/* @import '~bootstrap/scss/bootstrap'; */
 
 .rectangle-2 {
   height: 80px;
@@ -71,7 +71,67 @@ p {
 }
 
 .rectangle {
-  height: 720px;	
+  height: 720px;
   width: 1440px;
   background: linear-gradient(180deg, #000000 0%, rgba(0,0,0,0.22) 100%);
+}
+
+.center {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-149%, +240%);
+  font-size: 48px;
+  font-weight: bold;
+  color: #E71B2A;
+}
+
+.center-2 {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-122%, +320%);
+  font-size: 48px;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+.center-3 {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-125%, +820%);
+  font-size: 24px;
+  font-weight: bold;
+  color: #D2D2D2;
+}
+
+.rectangle-3 {
+  	height: 1001px;
+    width: 1500px;
+}
+
+.rectangle-4 {
+  height: 418px;
+  width: 281px;
+  opacity: 0.75;
+  border-radius: 10px;
+  background-color: #000000;
+  display: inline-flex;
+  flex-direction: row;
+  position: relative;
+  justify-content: space-between;
+}
+
+.img4panel {
+  height: 253px;
+  width: 169px;
+}
+
+.center-4 {
+
+
 }
