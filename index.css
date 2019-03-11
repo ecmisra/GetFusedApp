@@ -113,3 +113,25 @@ p {
   	height: 1001px;
     width: 1500px;
 }
+
+.rectangle-4 {
+  height: 418px;
+  width: 281px;
+  opacity: 0.75;
+  border-radius: 10px;
+  background-color: #000000;
+  display: inline-flex;
+  flex-direction: row;
+  position: relative;
+  justify-content: space-between;
+}
+
+.img4panel {
+  height: 253px;
+  width: 169px;
+}
+
+.center-4 {
+
+
+}
