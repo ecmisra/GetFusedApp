@@ -76,6 +76,40 @@ p {
   background: linear-gradient(180deg, #000000 0%, rgba(0,0,0,0.22) 100%);
 }
 
-.inspo {
+.center {
   font-family: 'ZCOOL QingKe HuangYou', cursive;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-149%, +240%);
+  font-size: 48px;
+  font-weight: bold;
+  color: #E71B2A;
+}
+
+.center-2 {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-122%, +320%);
+  font-size: 48px;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+.center-3 {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-125%, +820%);
+  font-size: 24px;
+  font-weight: bold;
+  color: #D2D2D2;
+}
+
+.rectangle-3 {
+  	height: 1001px;
+    width: 1500px;
 }
