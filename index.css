@@ -1,4 +1,4 @@
-@import '~bootstrap/scss/bootstrap';
+/* @import '~bootstrap/scss/bootstrap'; */
 
 .rectangle-2 {
   height: 80px;
@@ -71,7 +71,11 @@ p {
 }
 
 .rectangle {
-  height: 720px;	
+  height: 720px;
   width: 1440px;
   background: linear-gradient(180deg, #000000 0%, rgba(0,0,0,0.22) 100%);
+}
+
+.inspo {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
